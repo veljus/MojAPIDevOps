@@ -15,7 +15,7 @@ namespace SimpleAPIDevOps
 {
     public class Startup
     {
-        int i = 0;
+        int i = 1;
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
